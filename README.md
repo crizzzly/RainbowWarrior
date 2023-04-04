@@ -8,7 +8,12 @@ Semester 3, Embedded Systems - with Prof. Dr.-Ing. Jürgen Schüle*
 
 
 ## DIY Fancy Light with Alarm and several LED Animations
+
+Uses retro ringtones like Super Mario and Tetris as alarm melody  
+
+
 ### Requirements
+
 
 - ESP82 Development Board  
 - WS2812b or sk6812 adressable LED strip
